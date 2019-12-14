@@ -11,3 +11,4 @@ users = [
 hashed_users = Crud.create_secure_user(users)
 puts hashed_users
 
+
